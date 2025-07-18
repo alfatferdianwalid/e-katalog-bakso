@@ -3,13 +3,13 @@ const produkList = [
     nama: "Bakso Urat",
     harga: "Rp12.000",
     deskripsi: "Bakso urat isi daging sapi pilihan.",
-    gambar: "images/baso1.png"
+    gambar: "baso1.png"
   },
   {
     nama: "Bakso Telur",
     harga: "Rp15.000",
     deskripsi: "Bakso isi telur rebus, gurih dan padat.",
-    gambar: "images/baso2.jpg"
+    gambar: "baso2.jpg"
   }
 ];
 
